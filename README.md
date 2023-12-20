@@ -4,7 +4,7 @@
 *This is a Bruteforce tool Officialy Made For Testing Password Strength*
 # Author 
 
-<a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/peterusa7/"><img title="Github" src="https://img.shields.io/badge/peterusa7-blue?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-green?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
 
 # Tutorial
@@ -20,7 +20,7 @@ apt install python3
 apt install git
 pip install rich 
 pip install instagram-private-api
-git clone https://github.com/STARK-404/INSTA/
+git clone https://github.com/peterusa7/INSTA/
 cd INSTA
 chmod +x *
 python main.py
@@ -33,7 +33,7 @@ pkg install python
 pkg install git 
 pip install instagram-private-api 
 pip install rich 
-git clone https://github.com/STARK-404/INSTA
+git clone https://github.com/peterusa7/INSTA
 cd INSTA 
 chmod +x *
 python main.py
